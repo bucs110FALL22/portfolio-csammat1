@@ -31,5 +31,5 @@ while True:
   if result > 0:
     print('After the 3 dollar service fee your total returned it ' + str(result) + ' thank you for using our service.')
     break
-  if result < 0:
+  if result <= 0:
     print('We charge a 3 dollar service fee, unable to exchange this amount. Please try again.')
