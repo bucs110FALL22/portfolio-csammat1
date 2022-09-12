@@ -1,6 +1,7 @@
 import turtle
 import random
 my_turtle = turtle.Turtle()
+my_window = turtle.Screen()
 turtle.colormode(255)
 my_turtle.shape('turtle')
 my_turtle.color('purple')
@@ -27,4 +28,8 @@ for i in range (0,4):
   my_turtle.right(90)
   
   my_turtle.color((random_number1,random_number2,random_number3))
-turtle.exitonclick()
+
+my_window.exitonclick()
+
+
+
