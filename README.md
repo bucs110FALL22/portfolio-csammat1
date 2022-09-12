@@ -14,4 +14,4 @@ Preferred Name:Corey Sammataro
 
 Discord username:SirBluey (Nicknamed to real name)
 
-REPL url: https://replit.com/@CoreySammataro1/First#README.md
+REPL url: https://replit.com/join/hzdkygwlrl-coreysammataro1
