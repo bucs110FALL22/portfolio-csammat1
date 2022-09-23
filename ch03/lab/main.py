@@ -62,7 +62,7 @@ pygame.display.flip()
 time.sleep(1)
 
 coords = []
-num_sides = (4, 6, 9, 360)
+num_sides = (3, 4, 6, 9, 360)
 side_length = 100
 offset = 200
 for sides in (num_sides):
