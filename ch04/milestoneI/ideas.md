@@ -18,12 +18,13 @@ For each one below you should have a basic description of a program idea, a coup
 
 ## Project Idea 1
 
-< add your idea here >
+< 8-Bit Game >
+this idea can go many different dirrections. We were thinking either a 1v1 style game where the camera is above the characters, or a platformer style game.
 
 ## Project Idea 2
 
-< add your idea here >
-
+<Nature Simulation >
+In this idea you could pre-select certain values in a species such as speed, sense, stanima, etc. and see how they evolve over time. This was inspired by a youtube users videos of natural selection simulations, and evolution simulations.
 ## Project Idea 3
 
 < add your idea here >

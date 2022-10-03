@@ -7,6 +7,6 @@ dict = {'hurricane':'big storm',
 'weather':'light rain',
 'Cantore':'The Legend',
 'lightning':"Zue's lightning",}
-for key,value in dict.items():
+for (key,value) in dict.items():
   new_string = article.replace(key,value)#not sure why it is not replacing
 print(new_string)
