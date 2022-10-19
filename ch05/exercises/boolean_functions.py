@@ -14,7 +14,7 @@ def percentage_to_letter(score=0):
     letter_grade = 'F'
   return letter_grade
 def is_passing(letter = ''):
-  if letter == 'A' or'B' or 'C':
+  if letter == 'A' or letter == 'B' or letter == 'C':
     passing = True
   else:
     passing = False
