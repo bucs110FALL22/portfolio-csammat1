@@ -1,0 +1,10 @@
+print(self.api_url)
+    r = requests.request("GET", self.api_url, headers={}, data={}, files = {})
+  
+    print(r)
+    response = r.json()
+    
+    if response:
+      return response
+    else:
+      return None
